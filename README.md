@@ -17,6 +17,8 @@
 **Programing:** Selenium,Java,Python and Javascript
 **Database:** Oracle, MS SQL Server, MySQL And Mongo DB
 
+**Client:** React, Redux, TailwindCSS
+**Server:** Node, Express
 
 **Client:** React, Redux, TailwindCSS
 **Server:** Node, Express
