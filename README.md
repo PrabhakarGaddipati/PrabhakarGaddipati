@@ -14,8 +14,9 @@
 - Performacne Testing.
 
 ## Tech Stack
-**Programing:** Selenium,Java,Python and Javascript
-**Database:** Oracle, MS SQL Server, MySQL And Mongo DB
+**Client:** Selenium,Java,Python and Javascript
+
+**Server:** Oracle, MS SQL Server, MySQL And Mongo DB
 
 **Programing:** Selenium,Java,Python and Javascript
 **Database:** Oracle, MS SQL Server, MySQL And Mongo DB
