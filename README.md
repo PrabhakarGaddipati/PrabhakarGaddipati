@@ -6,9 +6,17 @@
 - 📫 How to reach me : Email- Prabha.testengg@gmail.com ✔Cell : Need to Update 🙌
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Automation Testing (Selenium with Java),
+Database Testing,
+API Testing,
+Manual Testing,
+ETL Testing,
+Performacne Testing.
 
 ## Tech Stack
+Programing : Selenium,Java,Python and Javascript.
+Database : Oracle, MS SQL Server, MySQL And Mongo DB
+
 **Client:** React, Redux, TailwindCSS
 **Server:** Node, Express
 <!---
