@@ -7,11 +7,11 @@
 
 ## 🛠 Skills
 - > Automation Testing (Selenium with Java),
-- + Database Testing,
-- API Testing,
-- Manual Testing,
-- ETL Testing,
-- Performacne Testing.
+- > Database Testing,
+- > API Testing,
+- > Manual Testing,
+- > ETL Testing,
+- > Performacne Testing.
 
 ## Tech Stack
 **Programing:** Selenium,Java,Python and Javascript
