@@ -8,7 +8,7 @@
 ## 🛠 Skills
 - > Automation Testing (Selenium with Java),
 - > Database Testing,
-- > API Testing (Manual: Postman & Automation: RestAssured)
+- > API Testing (Postman & RestAssured)
 - > Manual Testing,
 - > ETL Testing,
 - > Performacne Testing.
