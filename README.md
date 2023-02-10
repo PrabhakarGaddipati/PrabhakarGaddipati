@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 - > Automation Testing (Selenium with Java),
-- Database Testing,
+- + Database Testing,
 - API Testing,
 - Manual Testing,
 - ETL Testing,
