@@ -6,11 +6,11 @@
 - 📫 How to reach me : Email- Prabha.testengg@gmail.com ✔Cell : Need to Update 🙌
 
 ## 🛠 Skills
-- > Automation Testing  -> (Selenium with Java),
-- > Database Testing    -> (SQL & NoSQL)
-- > API Testing         -> (Postman & RestAssured)
+- > Automation Testing -> (Selenium with Java),
+- > Database Testing -> (SQL & NoSQL)
+- > API Testing -> (Postman & RestAssured)
 - > Manual Testing,
-- > ETL Testing         -> (Informatica & Data Stage)
+- > ETL Testing -> (Informatica & Data Stage)
 - > Performacne Testing -> (JMeter)
 
 ## Tech Stack
