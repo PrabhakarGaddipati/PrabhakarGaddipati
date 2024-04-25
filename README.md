@@ -3,7 +3,7 @@
 - 👀 I’m interested in Automation Testing with Selenium 
 - 🌱 I’m currently learning DevOps + Performatnce Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email- Prabha.testengg@gmail.com ✔Cell : Need to Update 🙌
+- 📫 How to reach me : Email- Prabhakar.gp7@gmail.com ✔Cell : Need to Update 🙌
 
 ## 🛠 Skills
 - > Automation Testing -> (Selenium with Java),
