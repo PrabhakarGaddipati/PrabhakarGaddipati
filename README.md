@@ -36,15 +36,23 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 
 
-
-
-
-------------------------------------------------------------
-**Database:** 
+-----------------------------------------------------------------------------------------------------------------------------
+**Programming:**
 <p align="left"> 
 
-<!-- Below is the code for "React JS" Image -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="max-width: 100%;"> 
+<!-- Below is the code for the "Core Java" Image -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+
+<!-- Below is the code for the "Python" Image -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+
+<!-- Below is the code for the "Java Script" Image -->
+
+
+</p>
+-----------------------------------------------------------------------------------------------------------------------------
+**Database:** 
+<p align="left"> 
 
 <!-- Below is the code for "Oracle Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70" style="max-width: 100%;"> 
@@ -57,11 +65,7 @@
 
 </p>
 
-------------------------------------------------------------
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-</p>
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 
