@@ -15,7 +15,7 @@
 
 ## Tech Stack
 -----------------------------------------------------------------------------------------------------------------------------
-**[Programming Technologies]:**
+**[ Programming Technologies ]:**
 <p align="left"> 
 
 <!-- Below is the code for the "Core Java" Image -->
@@ -30,7 +30,7 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
-**[Database Technologies]:**
+**[ Database Technologies ]:**
 <p align="left"> 
 
 <!-- Below is the code for "Oracle Database" Image -->
@@ -45,7 +45,7 @@
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------
-**Other Tech:**
+**[ Other Tech ]:**
 <p align="left"> 
   
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
