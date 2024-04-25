@@ -42,12 +42,17 @@
 ------------------------------------------------------------
 **Database:** 
 <p align="left"> 
+
+<!-- Below is the code for "React JS" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="max-width: 100%;"> 
 
+<!-- Below is the code for "Oracle Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70" style="max-width: 100%;"> 
 
+<!-- Below is the code for " MS SQL Server" Image -->
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60" style="max-width: 100%;"> 
 
+<!-- Below is the code for "Mongo Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
 
 </p>
