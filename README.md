@@ -7,10 +7,10 @@
 
 ## 🛠 Skills
 - > Automation Testing -> (Selenium with Java),
-  > Performance Testing -> (JMeter)
-- > Database Testing -> (SQL & NoSQL)
-- > API Testing -> (Postman & RestAssured)
-- > Manual Testing,
+  > Performance Testing -> (JMeter),
+- > Database Testing -> (SQL & NoSQL),
+- > API Testing -> (Postman & RestAssured),
+- > Salesforce (SFDC) Testing, Manual Testing,
 - > APM Tools -> (Splunk & Dynatrace)
 
 ## Tech Stack
