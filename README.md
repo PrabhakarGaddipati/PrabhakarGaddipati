@@ -13,7 +13,7 @@
 - > Manual Testing,
 - > APM Tools -> (Splunk & Dynatrace)
 
-## Tech Stack
+# Tech Stack
 -----------------------------------------------------------------------------------------------------------------------------
 **[ Programming Technologies ]:**
 <p align="left"> 
