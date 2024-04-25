@@ -1,7 +1,7 @@
 ## 🚀 About Me
 - 👋 Hi, I’m @PrabhakarGaddipati
-- 👀 I’m interested in Automation Testing with Selenium 
-- 🌱 I’m currently learning DevOps + Performance Testing
+- 👀 I’m interested in Automation & Performance Testing
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email- Prabhakar.gp7@gmail.com ✔Cell : Need to Update 🙌
 
