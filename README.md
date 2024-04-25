@@ -37,7 +37,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-**Programming:**
+**[Programming Technologies]:**
 <p align="left"> 
 
 <!-- Below is the code for the "Core Java" Image -->
@@ -52,7 +52,7 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------
-**Programming:**
+**[Database Technologies]:**
 <p align="left"> 
 
 <!-- Below is the code for "Oracle Database" Image -->
