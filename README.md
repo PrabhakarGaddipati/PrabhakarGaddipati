@@ -58,7 +58,6 @@
 
 <a href="https://www.linkedin.com/in/prabhakar-gaddipati-8225803a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
 
 <a href="https://twitter.com/Prabhakar_GP_77" target="_blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter_username?style=social&label=Follow" alt="Twitter">
