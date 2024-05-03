@@ -21,12 +21,11 @@
 </p>
 
 **[ Performacne Technologies ]:**
-<img src="https://www.microfocus.com/static/img/parallax/loadrunner-130x130.png" alt="Loadrunner" width="130" height="130">
-<img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="130" height="130">
-<img src="https://www.microfocus.com/static/img/parallax/loadrunner-130x130.png" alt="Loadrunner" width="130" height="130">
+
 <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="130" height="130">
 
-
+![LoadRunner Logo](https://github.com/)
+![JMeter Logo](https://github.com/)
 
 **[ Programming Technologies ]:**
 <p align="left"> 
