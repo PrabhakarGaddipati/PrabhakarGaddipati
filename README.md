@@ -13,6 +13,14 @@
 - > **APM Tools** -> (Splunk & Dynatrace)
 
 ## Tech Stack
+**[ Automation Technologies ]:**
+<p align="left">
+  
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+
+<img src="https://www.selenium.dev/images/selenium_logo_large.png" alt="Selenium" width="200" height="200">
+</p>
+
 **[ Programming Technologies ]:**
 <p align="left"> 
 
@@ -68,7 +76,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-https://www.facebook.com/sharer.php?u={url}
+
 ----------------------------------------------------------------------------------------------------------------------------------
 https://readme.so/editor,
 https://rahuldkjain.github.io/gh-profile-readme-generator/
