@@ -32,10 +32,10 @@
 <p align="left"> 
 
 <!-- Below is the code for "Oracle Database" Image -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80" style="max-width: 100%;"> 
 
 <!-- Below is the code for " MS SQL Server" Image -->
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70" style="max-width: 100%;"> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" style="max-width: 100%;"> 
 
 <!-- Below is the code for "Mongo Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
