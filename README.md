@@ -68,6 +68,10 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
 
+
+<a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
