@@ -22,9 +22,8 @@
 
 **[ Performacne Technologies ]:**
 
-<img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="130" height="130">
+<img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="100" height="100">
 
-[<img src="assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
 
 **[ Programming Technologies ]:**
 <p align="left"> 
