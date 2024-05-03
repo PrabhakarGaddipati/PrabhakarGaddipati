@@ -21,17 +21,7 @@
 </p>
 
 
-**[ DevOps ]:**
-<p align="left"> 
 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-alt="git" width="40" height="40"/> </a>
-
-</p>
 
 **[ Programming Technologies ]:**
 <p align="left"> 
@@ -63,6 +53,12 @@ alt="git" width="40" height="40"/> </a>
 
 </p>
 
+**[ DevOps ]:**
+<p align="left"> 
+
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+</p>
 
 **[ Other Tech ]:**
 <p align="left"> 
@@ -82,13 +78,6 @@ alt="git" width="40" height="40"/> </a>
 <a href="https://twitter.com/Prabhakar_GP_77" target="_blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter_username?style=social&label=Follow" alt="Twitter">
 </a>
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 
 ----------------------------------------------------------------------------------------------------------------------------------
 https://readme.so/editor,
