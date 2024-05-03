@@ -23,7 +23,7 @@
 **[ Performacne Technologies ]:**
 
 <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="100" height="100">
-<img src="https://www.microfocus.com/wp-content/uploads/2020/12/micro-focus-loadrunner-enterprise.png" alt="LoadRunner Logo">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/61/HPE_LoadRunner_logo.png" alt="JMeter" width="100" height="100">
 
 **[ Programming Technologies ]:**
 <p align="left"> 
