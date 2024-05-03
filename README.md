@@ -54,6 +54,11 @@
 
 </p>
 
+## Social Media Connections
+
+<a href="https://www.linkedin.com/in/prabhakar-gaddipati-8225803a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
 
 ----------------------------------------------------------------------------------------------------------------------------------
 https://readme.so/editor,
