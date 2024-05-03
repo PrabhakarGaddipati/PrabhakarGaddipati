@@ -54,17 +54,15 @@
 
 </p>
 
-## Social Media Connections
+## 🔗 Social Media Connections
 
 <a href="https://www.linkedin.com/in/prabhakar-gaddipati-8225803a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<a href="https://twitter.com/Prabhakar_GP_77" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/your_twitter_username?style=social&label=Follow" alt="Twitter">
+</a>
 
 ----------------------------------------------------------------------------------------------------------------------------------
 https://readme.so/editor,
