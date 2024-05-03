@@ -34,12 +34,10 @@
 <!-- Below is the code for "Oracle Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80" style="max-width: 100%;"> 
 
-<br> <!-- Add this line to create space -->
-
+<div style="display: inline-block; margin-right: 20px;">
 <!-- Below is the code for " MS SQL Server" Image -->
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" style="max-width: 100%;"> 
-
-<br> <!-- Add this line to create space -->
+</div>
 
 <!-- Below is the code for "Mongo Database" Image -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
