@@ -57,39 +57,13 @@
 ## 🔗 Social Media Connections
 <a href="https://www.linkedin.com/in/prabhakar-gaddipati-8225803a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a> <a href="https://twitter.com/Prabhakar_GP_77" target="_blank">
+</a> 
+<a href="https://twitter.com/Prabhakar_GP_77" target="_blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter_username?style=social&label=Follow" alt="Twitter">
 </a>
 ----------------------------------------------------------------------------------------------------------------------------------
 https://readme.so/editor,
 https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)]
-
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
-
-
-<a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 PrabhakarGaddipati/PrabhakarGaddipati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
