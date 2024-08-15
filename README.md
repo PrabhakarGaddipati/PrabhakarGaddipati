@@ -8,8 +8,9 @@
 - 📫 How to reach me : Email- Prabhakar.gp7@gmail.com ✔Cell : Need to Update 🙌
 
 ## 🛠 Skills
-- > **Automation Testing** -> (Selenium with Java), Performance Testing -> (JMeter),
-- > **Database Testing** -> (SQL & NoSQL),
+- > **Automation Testing** -> (Selenium with Java),
+- > **Performance Testing** -> (JMeter),
+- > **Database Testing** -> (Oracle SQL & MS Sql Server),
 - > **API Testing** -> (Postman & RestAssured),
 - > **Salesforce** (SFDC) Testing, Manual Testing,
 - > **APM Tools** -> (Splunk & Dynatrace)
