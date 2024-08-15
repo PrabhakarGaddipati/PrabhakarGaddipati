@@ -1,6 +1,8 @@
 ## 🚀 About Me
-- 👋 Hi, I’m @PrabhakarGaddipati
+- 👋 Hi, I’m @Prabhakar Gaddipati
 - 👀 I’m interested in Automation & Performance Testing
+- 😊 Passionate about delivering high-quality software.
+- 📚 Experienced in creating and executing comprehensive manual and automated test scripts.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email- Prabhakar.gp7@gmail.com ✔Cell : Need to Update 🙌
